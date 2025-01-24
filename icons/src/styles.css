@@ -1,0 +1,16 @@
+.crossword {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .crossword-grid {
+    font-family: Arial, sans-serif;
+  }
+  
+  .crossword-clues {
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
